@@ -1,0 +1,26 @@
+
+.container{
+    background-color: #DDC3C3;
+    border: 5px solid white;
+    margin-top: 50px;
+}
+body{
+    background-color: #6B3F69;
+}
+.skills{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 20px;
+}
+.bg-body-tertiary{
+    background-color: #DDC3C3;
+    --bs-bg-opacity: 0;
+}
+.hobbies{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 20px;
+}
+.text-body-secondary{
+    color: #DDC3C3 !important;
+}
